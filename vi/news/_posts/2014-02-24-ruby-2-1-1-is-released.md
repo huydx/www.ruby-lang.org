@@ -7,7 +7,7 @@ date: 2014-02-24 05:00:00 +0000
 lang: vi
 ---
 
-Nhân kỉ niệm 21 năm ngày sinh của Ruby (24/2/1993), chúng tôi hận hạnh phát hành phiên bản 2.1.1 là bản vá cho Ruby 2.1.
+Nhân kỉ niệm 21 năm ngày sinh của Ruby (24/2/1993), chúng tôi hân hạnh phát hành phiên bản 2.1.1 là bản vá cho Ruby 2.1.
 
 Ruby 2.1.1 giới thiệu nhiều cải tiến về mặt tốc độ mà không ảnh hưởng đến độ tương thích. Bạn có thể yên tâm sử dụng bản vá này cho các ứng dụng Rails và Ruby.
 
